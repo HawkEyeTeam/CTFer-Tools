@@ -6,9 +6,9 @@ HawkEye Team CTF Tools
 ## 防御方向
 
 ### * 1.Tamper-proof
-Author:Erode
+Author:Erode  
 use: 
-python3 tamper-proof-3.py
+python3 tamper-proof-3.py 
 针对不同的环境编写了py2和py3
 #### * 功能描述
 主要功能：文件监控 防篡改

@@ -9,7 +9,7 @@ HawkEye Team CTF Tools
 Author:Erode  
 use: 
 python3 tamper-proof-3.py 
-针对不同的环境编写了py2和py3
+针对不同的环境编写了py2和py3 
 #### * 功能描述
 主要功能：文件监控 防篡改
 1. 生成MD5字典
